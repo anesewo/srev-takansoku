@@ -1,6 +1,6 @@
 # リアルタイム地震ビューアー for あねせを
 
-[kotoho7氏が公開している「リアルタイム地震ビューアー」](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page)をベースに、独自の観測網や海外の緊急地震速報を追加したものです。
+[リアルタイム地震ビューアー](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page)に、独自の観測網や海外の緊急地震速報を追加したものです。
 
 ## 概要
 
