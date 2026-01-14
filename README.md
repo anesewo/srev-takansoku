@@ -1,4 +1,4 @@
-# リアルタイム地震ビューアー for あねせを
+# リアルタイム地震ビューアー多観測網版
 
 [リアルタイム地震ビューアー](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page)に、独自の観測網や海外の緊急地震速報を追加したものです。
 
@@ -23,7 +23,7 @@
 * ソース: [wolfxAPI](https://wolfx.jp/apidoc)
 
 
-## P2P強震モニタ（コミュニティ観測網）
+### P2P強震モニタ（コミュニティ観測網）
 - 私が作成しているP2P強震モニタの情報を受信して自動的に表示します。
 - ユーザーのスマートフォンの加速度センサーを使って計測震度を求めていますが、防災科研の強震モニタのリアルタイム震度とは計算方法が異なります。  
 - 意図的かどうかにかかわらず異常な値が出る可能性があります。
@@ -33,6 +33,40 @@
 
 ## ライセンス
 
-本プロジェクトは、ベースとなった「リアルタイム地震ビューアー」のライセンスに基づき、**CC BY-SA 2.0（クリエイティブ・コモンズ 表示 - 継承 2.0）**で公開されています。
+本プロジェクトは、ベースとなった「リアルタイム地震ビューアー」のライセンスに基づき、 **CC BY-SA 2.0（クリエイティブ・コモンズ 表示 - 継承 2.0）** で公開されています。
 
 * **継承元:** [リアルタイム地震ビューアー](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page)
+
+
+## 問い合わせ
+リクエストやバグ報告等はこちらで受け付けています。  
+ - [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdbn7IblC1k0me4JgaFOAaIAEoHIyThoQmXslGGKRJvFdRFgg/viewform)
+ - [discordサーバー（招待コード）](https://discord.gg/DDCvpYEa9)
+ - [多観測網版製作者X](https://x.com/aseneo2)  
+
+## 注意事項
+多観測網版製作者は **パッケージ版、turbowarp版、scratch版** 及び、**改造版**製作者とは全くの無関係です。  
+元作品製作者、改造版製作者に対して、このバージョンに関する問い合わせは迷惑になる可能性があるため行わないでください。
+
+
+## クレジット（元作品と同様）
+
+### 日本地図
+
+- [気象庁 予報区等GISデータ](https://www.data.jma.go.jp/developer/gis.html)
+- [国土交通省 国土数値情報 湖沼データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-W09-v2_2.html)
+
+### 世界地図
+
+- [Natural Earth 1:10m Cultural Vectors (Japan POV)](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+- [NOAA ETOPO](https://www.ngdc.noaa.gov/mgg/global/)
+
+### フォント
+
+- [Akshar](https://fonts.google.com/specimen/Akshar)
+- [BIZ UDPGothic](https://fonts.google.com/specimen/BIZ+UDPGothic)  
+※どちらも SIL Open Font License
+
+### 効果音
+
+- [OtoLogic ニュース テロップ](https://otologic.jp/free/se/news-accent01.html)
