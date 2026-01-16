@@ -39,7 +39,6 @@
 ## 問い合わせ
 リクエストやバグ報告等はこちらで受け付けています。  
  - [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdbn7IblC1k0me4JgaFOAaIAEoHIyThoQmXslGGKRJvFdRFgg/viewform)
- - [discordサーバー（招待コード）](https://discord.gg/DDCvpYEa9A)
  - [多観測網版製作者X](https://x.com/aseneo2)  
 
 ## 注意事項
